@@ -1,5 +1,5 @@
 # 스유미식회 (SwiftUI 미식회)
-<img width="1390" alt="image" src="https://github.com/SwiftUI-Gourmet/SwiftUIGourmetArchive/assets/54929503/a01dda3b-9c62-4698-808f-b9052e35850d">
+<img width="1390" alt="image" src="https://github.com/SwiftUI-Gourmet/SwiftUIGourmetArchive/assets/54929503/2974f3e5-66bb-46df-86a7-d8247be19f4b">
 
 
 ## 목차
